@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "com.github-glitchenzo.nugetforunity": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
+    "com.htc.upm.wave.openxr": "https://github.com/ViveSoftware/VIVE-OpenXR-AIO.git?path=com.htc.upm.wave.openxr",
+    "com.htc.upm.wave.openxr.toolkit": "https://github.com/ViveSoftware/VIVE-OpenXR-AIO.git?path=com.htc.upm.wave.openxr.toolkit",
+    "com.htc.upm.wave.openxr.toolkit.samples": "https://github.com/ViveSoftware/VIVE-OpenXR-AIO.git?path=com.htc.upm.wave.openxr.toolkit.samples",
     "com.unity.collab-proxy": "2.3.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.vscode": "1.2.5",

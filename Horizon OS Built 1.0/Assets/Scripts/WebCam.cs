@@ -12,7 +12,8 @@ public class WebCam : MonoBehaviour
     void Start()
     {
         // Set the path to the Python DLL after initializing Python
-        Runtime.PythonDLL = @"C:\Users\revor\AppData\Local\Programs\Python\Python311\python311.dll";
+        // Runtime.PythonDLL = @"C:\Users\revor\AppData\Local\Programs\Python\Python311\python311.dll";
+        Runtime.PythonDLL = @"/usr/lib/x86_64-linux-gnu/libpython3.10.so";
         // Initialize Python must be done first
         PythonEngine.Initialize();
 
