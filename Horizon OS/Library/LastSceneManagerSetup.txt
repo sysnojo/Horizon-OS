@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/ngrok/Documents/GitHub/Horizon-OS/Horizon OS Built 1.0/Assets/Scenes/Main
+    Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
